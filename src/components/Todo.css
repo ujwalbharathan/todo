@@ -1,0 +1,8 @@
+.todo{
+    background-color: violet;
+    width: 100%;
+    text-align: center;
+}
+.strike{
+    text-decoration: line-through;
+}
